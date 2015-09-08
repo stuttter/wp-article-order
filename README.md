@@ -16,18 +16,15 @@ WP Article Order looks for common grammatical articles at the beginning of post 
 
 ```
 A Christmas Story
-```
-vs.
-```
 Christmas Story, A
 ```
-
 ```
 The White Rabbit
-```
-vs.
-```
 White Rabbit, The
+```
+```
+The Big Lebowski
+Big Lebowski, The
 ```
 
 ### What languages & articles are supported?
