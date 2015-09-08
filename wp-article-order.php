@@ -6,7 +6,7 @@
  * Description: Move articles to the end of post titles
  * Author:      John James Jacoby
  * Author URI:  https://profiles.wordpress.org/johnjamesjacoby/
- * Version:     0.1.1
+ * Version:     0.1.0
  * License:     GPL v2 or later
  */
 
