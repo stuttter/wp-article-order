@@ -30,6 +30,7 @@ Big Lebowski, The
 ### What languages & articles are supported?
 
 * `en_US` - "The, A, An, Some"
+* `de_DE` - "Der, die, das, dem, den, des, ein, eine, einem, einen, einer, eines"
 
 ### Where can I get support?
 
