@@ -78,6 +78,15 @@ function wp_article_order_get_articles( $locale = 'en_US' ) {
 
 	switch ( $locale ) {
 
+		// German
+		case 'de_DE' :
+		case 'de_AT' :
+		case 'de_CH' :
+		case 'de_LI' :
+		case 'de_LU' :
+			$retval = array( 'der', 'die', 'das', 'dem', 'den', 'des', 'ein', 'eine', 'einem', 'einen', 'einer', 'eines' );
+			break;
+
 		// English
 		case 'en_US' :
 		default :
