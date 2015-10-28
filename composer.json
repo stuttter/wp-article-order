@@ -1,0 +1,17 @@
+{
+  "name": "stuttter/wp-article-order",
+  "description": "Move articles to the end of post titles, for improved title sorting",
+  "homepage": "https://github.com/stuttter/wp-article-order",
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=5.2",
+    "composer/installers": "^1.0"
+  },
+  "license": "GPLv2 or later",
+  "authors": [
+    {
+      "name": "John James Jacoby",
+      "email": "johnjamesjacoby@me.com"
+    }
+  ]
+}
