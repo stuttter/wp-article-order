@@ -34,7 +34,7 @@ Big Lebowski, The
 
 ### Where can I get support?
 
-The WordPress support forums: https://wordpress.org/plugins/tags/wp-article-order/
+The WordPress support forums: https://wordpress.org/support/plugin/wp-article-order/
 
 ### Can I contribute?
 
