@@ -3,7 +3,7 @@ Contributors: johnjamesjacoby, stuttter
 Tags: title, order, sort, article, grammar
 Requires at least: 4.3
 Tested up to: 4.4
-Stable tag: 0.1.0
+Stable tag: 0.1.1
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9Q4F4EL5YJ62J
@@ -53,6 +53,9 @@ WP Article Order looks for common grammatical articles at the beginning of post 
 http://github.com/stuttter/wp-article-order/
 
 == Changelog ==
+
+= 0.1.1 =
+* Add German language support
 
 = 0.1.0 =
 * Initial release
