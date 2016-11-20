@@ -39,6 +39,10 @@ Multisite:
 * [WP Multi Network](https://wordpress.org/plugins/wp-multi-network/ "Create many networks of many sites with any domains.")
 * [WP Site Aliases](https://wordpress.org/plugins/wp-site-aliases/ "Create many networks of many sites with any domains.")
 
+Posts:
+
+* [WP Article Order](https://wordpress.org/plugins/wp-article-order/ "Move articles to the end of post titles.")
+
 System:
 
 * [LudicrousDB](https://wordpress.org/plugins/ludicrousdb/ "Minifies & concatenates enqueued scripts & styles.")
